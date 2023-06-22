@@ -1,0 +1,812 @@
+2023-05-25 01:25:27,949 [main] INFO logger_File - Atual title mached the expected
+2023-06-03 17:30:13,525 [main] INFO logger_File - Atual title mached the expected
+2023-06-03 17:30:14,171 [main] INFO logger_File - user searched for product  Pokemon
+2023-06-03 17:30:14,228 [main] INFO logger_File - the Product is displayed on home Page
+2023-06-07 16:51:17,682 [main] INFO logger_File - Atual title mached the expected
+2023-06-07 16:51:18,114 [main] INFO logger_File - User clicked on SignIn option
+2023-06-07 16:55:08,702 [main] INFO logger_File - Atual title mached the expected
+2023-06-07 16:55:09,140 [main] INFO logger_File - User clicked on SignIn option
+2023-06-07 17:38:31,887 [main] INFO logger_File - Atual title mached the expected
+2023-06-07 17:38:32,301 [main] INFO logger_File - User clicked on SignIn option
+2023-06-07 17:38:32,557 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsdf@1234
+2023-06-07 17:38:32,842 [main] INFO logger_File - user clicked on login button
+2023-06-07 18:02:21,631 [main] INFO logger_File - Atual title mached the expected
+2023-06-07 18:02:22,043 [main] INFO logger_File - User clicked on SignIn option
+2023-06-07 18:02:22,238 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsdf@1234
+2023-06-07 18:02:22,510 [main] INFO logger_File - user clicked on login button
+2023-06-07 18:02:28,634 [main] INFO logger_File - Atual title mached the expected
+2023-06-07 18:02:29,148 [main] INFO logger_File - User clicked on SignIn option
+2023-06-07 18:02:29,403 [main] INFO logger_File - user entered emailali123456@gmail.comand passwordAsdf@123456
+2023-06-07 18:02:29,686 [main] INFO logger_File - user clicked on login button
+2023-06-07 18:02:55,337 [main] INFO logger_File - Atual title mached the expected
+2023-06-07 18:02:55,735 [main] INFO logger_File - User clicked on SignIn option
+2023-06-07 18:02:55,928 [main] INFO logger_File - user entered emailali@gmail.comand passwordAsdf@1234
+2023-06-07 18:02:56,214 [main] INFO logger_File - user clicked on login button
+2023-06-08 18:18:36,288 [main] INFO logger_File - Atual title mached the expected
+2023-06-08 18:18:36,709 [main] INFO logger_File - User clicked on SignIn option
+2023-06-08 18:18:36,939 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsdf@1234
+2023-06-08 18:18:37,217 [main] INFO logger_File - user clicked on login button
+2023-06-08 18:18:43,074 [main] INFO logger_File - Atual title mached the expected
+2023-06-08 18:18:43,473 [main] INFO logger_File - User clicked on SignIn option
+2023-06-08 18:18:43,667 [main] INFO logger_File - user entered emailali123456@gmail.comand passwordAsdf@123456
+2023-06-08 18:18:43,947 [main] INFO logger_File - user clicked on login button
+2023-06-08 18:19:09,510 [main] INFO logger_File - Atual title mached the expected
+2023-06-08 18:19:09,947 [main] INFO logger_File - User clicked on SignIn option
+2023-06-08 18:19:10,150 [main] INFO logger_File - user entered emailali@gmail.comand passwordAsdf@1234
+2023-06-08 18:19:10,428 [main] INFO logger_File - user clicked on login button
+2023-06-08 18:19:36,158 [main] INFO logger_File - Atual title mached the expected
+2023-06-08 18:19:36,550 [main] INFO logger_File - User clicked on SignIn option
+2023-06-08 18:19:36,826 [main] INFO logger_File - User clicked on 'Create New Button'
+2023-06-08 18:20:26,959 [main] INFO logger_File - Atual title mached the expected
+2023-06-08 18:20:27,440 [main] INFO logger_File - User clicked on SignIn option
+2023-06-08 18:20:27,745 [main] INFO logger_File - User clicked on 'Create New Button'
+2023-06-08 18:22:21,912 [main] INFO logger_File - Atual title mached the expected
+2023-06-08 18:22:22,251 [main] INFO logger_File - User clicked on SignIn option
+2023-06-08 18:22:22,559 [main] INFO logger_File - User clicked on 'Create New Button'
+2023-06-08 18:22:22,938 [main] INFO logger_File - User filled all the inputs
+2023-06-08 18:22:23,197 [main] INFO logger_File - User clicked on sign up button
+2023-06-08 18:22:23,442 [main] INFO logger_File - Profile loge displayed 
+2023-06-08 20:32:27,024 [main] INFO logger_File - Atual title mached the expected
+2023-06-08 20:32:27,471 [main] INFO logger_File - User clicked on SignIn option
+2023-06-08 20:32:27,764 [main] INFO logger_File - User clicked on 'Create New Button'
+2023-06-08 20:32:28,177 [main] INFO logger_File - User filled all the inputs
+2023-06-08 20:32:28,426 [main] INFO logger_File - User clicked on sign up button
+2023-06-13 14:23:26,921 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 14:23:27,319 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 14:23:27,526 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsdf@1234
+2023-06-13 14:23:27,797 [main] INFO logger_File - user clicked on login button
+2023-06-13 14:23:28,449 [main] INFO logger_File - User clicked on account button
+2023-06-13 14:24:54,313 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 14:24:54,707 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 14:24:54,941 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsdf@1234
+2023-06-13 14:24:55,238 [main] INFO logger_File - user clicked on login button
+2023-06-13 14:24:55,839 [main] INFO logger_File - User clicked on account button
+2023-06-13 19:20:41,699 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 19:20:42,126 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 19:20:42,343 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsdf@1234
+2023-06-13 19:20:42,630 [main] INFO logger_File - user clicked on login button
+2023-06-13 19:20:43,255 [main] INFO logger_File - User clicked on account button
+2023-06-13 19:36:41,980 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 19:36:42,432 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 19:36:42,626 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsdf@1234
+2023-06-13 19:36:42,900 [main] INFO logger_File - user clicked on login button
+2023-06-13 19:36:43,516 [main] INFO logger_File - User clicked on account button
+2023-06-13 19:36:43,796 [main] INFO logger_File - User updated the name and phone
+2023-06-13 19:36:44,045 [main] INFO logger_File - User clicked on update button
+2023-06-13 19:39:14,251 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 19:39:14,658 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 19:39:14,898 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsdf@1234
+2023-06-13 19:39:15,184 [main] INFO logger_File - user clicked on login button
+2023-06-13 19:39:15,772 [main] INFO logger_File - User clicked on account button
+2023-06-13 19:39:16,013 [main] INFO logger_File - User updated the name and phone
+2023-06-13 19:39:16,270 [main] INFO logger_File - User clicked on update button
+2023-06-13 19:42:37,984 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 19:42:38,340 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 19:42:38,560 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsdf@1234
+2023-06-13 19:42:38,831 [main] INFO logger_File - user clicked on login button
+2023-06-13 19:42:39,428 [main] INFO logger_File - User clicked on account button
+2023-06-13 19:42:39,683 [main] INFO logger_File - User updated the name and phone
+2023-06-13 19:45:25,090 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 19:45:25,505 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 19:45:25,744 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsdf@1234
+2023-06-13 19:45:26,027 [main] INFO logger_File - user clicked on login button
+2023-06-13 19:45:26,726 [main] INFO logger_File - User clicked on account button
+2023-06-13 19:45:27,004 [main] INFO logger_File - User updated the name and phone
+2023-06-13 19:45:27,268 [main] INFO logger_File - User clicked on update button
+2023-06-13 19:45:27,919 [main] INFO logger_File - Successfully updated
+2023-06-13 20:44:11,634 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 20:44:12,213 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 20:44:12,429 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsdf@1234
+2023-06-13 20:44:12,708 [main] INFO logger_File - user clicked on login button
+2023-06-13 20:45:03,563 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 20:45:04,005 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 20:45:04,268 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordASdf@1234
+2023-06-13 20:45:04,545 [main] INFO logger_File - user clicked on login button
+2023-06-13 20:45:05,213 [main] INFO logger_File - User clicked on account button
+2023-06-13 20:48:04,307 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 20:48:04,784 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 20:48:05,029 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordASdf@1234
+2023-06-13 20:48:05,311 [main] INFO logger_File - user clicked on login button
+2023-06-13 20:48:05,904 [main] INFO logger_File - User clicked on account button
+2023-06-13 20:49:41,156 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 20:49:41,591 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 20:49:41,850 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordASdf@1234
+2023-06-13 20:49:42,138 [main] INFO logger_File - user clicked on login button
+2023-06-13 20:50:42,431 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 20:50:42,854 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 20:50:43,071 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordASdf@1234
+2023-06-13 20:50:43,355 [main] INFO logger_File - user clicked on login button
+2023-06-13 20:50:43,928 [main] INFO logger_File - User clicked on account button
+2023-06-13 20:50:44,224 [main] INFO logger_File - User updated the name and phone
+2023-06-13 20:51:10,214 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 20:51:10,611 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 20:51:10,795 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordASdf@1234
+2023-06-13 20:51:11,059 [main] INFO logger_File - user clicked on login button
+2023-06-13 20:51:11,693 [main] INFO logger_File - User clicked on account button
+2023-06-13 20:51:29,589 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 20:51:29,997 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 20:51:30,218 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordASdf@1234
+2023-06-13 20:51:30,501 [main] INFO logger_File - user clicked on login button
+2023-06-13 20:51:31,104 [main] INFO logger_File - User clicked on account button
+2023-06-13 20:56:48,386 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 20:56:48,796 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 20:56:49,044 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordASdf@1234
+2023-06-13 20:56:49,325 [main] INFO logger_File - user clicked on login button
+2023-06-13 20:56:49,916 [main] INFO logger_File - User clicked on account button
+2023-06-13 20:56:50,140 [main] INFO logger_File - User filled the password data
+2023-06-13 20:56:50,407 [main] INFO logger_File - User clicked on change password
+2023-06-13 20:59:52,173 [main] INFO logger_File - Atual title mached the expected
+2023-06-13 20:59:52,580 [main] INFO logger_File - User clicked on SignIn option
+2023-06-13 20:59:52,780 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordASDf@1234
+2023-06-13 20:59:53,072 [main] INFO logger_File - user clicked on login button
+2023-06-13 20:59:53,704 [main] INFO logger_File - User clicked on account button
+2023-06-13 20:59:53,954 [main] INFO logger_File - User filled the password data
+2023-06-13 20:59:54,224 [main] INFO logger_File - User clicked on change password
+2023-06-13 20:59:55,081 [main] INFO logger_File - Success Message Appeared
+2023-06-14 00:56:37,875 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 00:56:38,374 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 00:56:38,591 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordASDf@1234
+2023-06-14 00:56:38,861 [main] INFO logger_File - user clicked on login button
+2023-06-14 00:57:21,624 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 00:57:22,023 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 00:57:22,245 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 00:57:22,523 [main] INFO logger_File - user clicked on login button
+2023-06-14 00:57:23,102 [main] INFO logger_File - User clicked on account button
+2023-06-14 00:59:21,134 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 00:59:21,576 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 00:59:21,814 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 00:59:22,087 [main] INFO logger_File - user clicked on login button
+2023-06-14 00:59:22,677 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:04:17,202 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 01:04:17,635 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 01:04:17,861 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 01:04:18,144 [main] INFO logger_File - user clicked on login button
+2023-06-14 01:04:18,733 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:04:19,005 [main] INFO logger_File - User clicke on add method option
+2023-06-14 01:04:57,697 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 01:04:58,050 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 01:04:58,273 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 01:04:58,537 [main] INFO logger_File - user clicked on login button
+2023-06-14 01:04:59,143 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:04:59,428 [main] INFO logger_File - User clicke on add method option
+2023-06-14 01:05:00,196 [main] INFO logger_File - User filled the form
+2023-06-14 01:05:00,451 [main] INFO logger_File - User clicked on add your card button
+2023-06-14 01:08:31,120 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 01:08:31,447 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 01:08:31,664 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 01:08:31,935 [main] INFO logger_File - user clicked on login button
+2023-06-14 01:08:32,526 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:08:32,792 [main] INFO logger_File - User clicke on add method option
+2023-06-14 01:08:33,558 [main] INFO logger_File - User filled the form
+2023-06-14 01:08:33,809 [main] INFO logger_File - User clicked on add your card button
+2023-06-14 01:09:03,383 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 01:09:03,786 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 01:09:04,028 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 01:09:04,315 [main] INFO logger_File - user clicked on login button
+2023-06-14 01:09:04,900 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:09:05,181 [main] INFO logger_File - User clicke on add method option
+2023-06-14 01:09:06,008 [main] INFO logger_File - User filled the form
+2023-06-14 01:09:06,268 [main] INFO logger_File - User clicked on add your card button
+2023-06-14 01:20:40,021 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 01:20:40,405 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 01:20:40,624 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 01:20:40,920 [main] INFO logger_File - user clicked on login button
+2023-06-14 01:20:41,496 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:20:41,800 [main] INFO logger_File - User clicke on add method option
+2023-06-14 01:20:42,616 [main] INFO logger_File - User filled the form
+2023-06-14 01:20:42,872 [main] INFO logger_File - User clicked on add your card button
+2023-06-14 01:21:06,087 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 01:21:06,503 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 01:21:06,756 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 01:21:07,060 [main] INFO logger_File - user clicked on login button
+2023-06-14 01:21:07,635 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:21:07,918 [main] INFO logger_File - User clicke on add method option
+2023-06-14 01:21:08,671 [main] INFO logger_File - User filled the form
+2023-06-14 01:21:08,933 [main] INFO logger_File - User clicked on add your card button
+2023-06-14 01:34:02,986 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 01:34:03,438 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 01:34:03,650 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 01:34:03,931 [main] INFO logger_File - user clicked on login button
+2023-06-14 01:34:04,512 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:34:04,800 [main] INFO logger_File - User clicke on add method option
+2023-06-14 01:34:05,510 [main] INFO logger_File - User filled the form
+2023-06-14 01:34:05,777 [main] INFO logger_File - User clicked on add your card button
+2023-06-14 01:34:25,344 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 01:34:25,778 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 01:34:25,997 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 01:34:26,256 [main] INFO logger_File - user clicked on login button
+2023-06-14 01:34:26,790 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:34:27,077 [main] INFO logger_File - User clicke on add method option
+2023-06-14 01:34:27,924 [main] INFO logger_File - User filled the form
+2023-06-14 01:34:28,181 [main] INFO logger_File - User clicked on add your card button
+2023-06-14 01:40:41,128 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 01:40:41,593 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 01:40:41,787 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 01:40:42,054 [main] INFO logger_File - user clicked on login button
+2023-06-14 01:40:42,637 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:40:42,947 [main] INFO logger_File - User clicke on add method option
+2023-06-14 01:40:43,727 [main] INFO logger_File - User filled the form
+2023-06-14 01:40:43,977 [main] INFO logger_File - User clicked on add your card button
+2023-06-14 01:41:02,519 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 01:41:02,884 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 01:41:03,094 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 01:41:03,358 [main] INFO logger_File - user clicked on login button
+2023-06-14 01:41:04,008 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:41:04,285 [main] INFO logger_File - User clicke on add method option
+2023-06-14 01:41:05,122 [main] INFO logger_File - User filled the form
+2023-06-14 01:41:05,457 [main] INFO logger_File - User clicked on add your card button
+2023-06-14 01:42:18,806 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 01:42:19,251 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 01:42:19,451 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 01:42:19,732 [main] INFO logger_File - user clicked on login button
+2023-06-14 01:42:20,307 [main] INFO logger_File - User clicked on account button
+2023-06-14 01:42:20,614 [main] INFO logger_File - User clicke on add method option
+2023-06-14 01:42:21,376 [main] INFO logger_File - User filled the form
+2023-06-14 01:42:21,634 [main] INFO logger_File - User clicked on add your card button
+2023-06-14 01:42:22,278 [main] INFO logger_File - card added successfully
+2023-06-14 13:59:47,646 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 13:59:48,139 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 13:59:48,422 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 13:59:48,701 [main] INFO logger_File - user clicked on login button
+2023-06-14 13:59:49,310 [main] INFO logger_File - User clicked on account button
+2023-06-14 13:59:49,884 [main] INFO logger_File - User clicked on edit option
+2023-06-14 13:59:50,713 [main] INFO logger_File - User updated the info
+2023-06-14 14:02:33,805 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 14:02:34,277 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 14:02:34,505 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 14:02:34,777 [main] INFO logger_File - user clicked on login button
+2023-06-14 14:02:35,364 [main] INFO logger_File - User clicked on account button
+2023-06-14 14:05:07,695 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 14:05:08,147 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 14:05:08,403 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 14:05:08,688 [main] INFO logger_File - user clicked on login button
+2023-06-14 14:05:09,372 [main] INFO logger_File - User clicked on account button
+2023-06-14 14:05:09,955 [main] INFO logger_File - User clicked on edit option
+2023-06-14 14:05:10,881 [main] INFO logger_File - User updated the info
+2023-06-14 14:05:11,140 [main] INFO logger_File - User clicked on Update option
+2023-06-14 14:05:11,734 [main] INFO logger_File - Update message apeared
+2023-06-14 14:42:58,643 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 14:42:59,082 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 14:42:59,354 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 14:42:59,639 [main] INFO logger_File - user clicked on login button
+2023-06-14 14:43:00,286 [main] INFO logger_File - User clicked on account button
+2023-06-14 14:44:36,139 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 14:44:36,551 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 14:44:36,765 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 14:44:37,032 [main] INFO logger_File - user clicked on login button
+2023-06-14 14:44:37,595 [main] INFO logger_File - User clicked on account button
+2023-06-14 14:48:43,418 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 14:48:43,928 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 14:48:44,117 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 14:48:44,384 [main] INFO logger_File - user clicked on login button
+2023-06-14 14:48:45,024 [main] INFO logger_File - User clicked on account button
+2023-06-14 14:48:45,599 [main] INFO logger_File - User clicked on remove option
+2023-06-14 14:48:45,627 [main] INFO logger_File - Card removed
+2023-06-14 17:46:45,663 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 17:46:46,086 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 17:46:46,310 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 17:46:46,586 [main] INFO logger_File - user clicked on login button
+2023-06-14 17:46:47,213 [main] INFO logger_File - User clicked on account button
+2023-06-14 18:53:56,256 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 18:53:56,849 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 18:53:57,060 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 18:53:57,329 [main] INFO logger_File - user clicked on login button
+2023-06-14 18:53:57,856 [main] INFO logger_File - User clicked on account button
+2023-06-14 18:53:58,155 [main] INFO logger_File - User clicked on add address
+2023-06-14 18:57:20,442 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 18:57:20,835 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 18:57:21,062 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 18:57:21,337 [main] INFO logger_File - user clicked on login button
+2023-06-14 18:57:21,981 [main] INFO logger_File - User clicked on account button
+2023-06-14 18:57:22,301 [main] INFO logger_File - User clicked on add address
+2023-06-14 19:00:17,092 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 19:00:17,477 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 19:00:17,726 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 19:00:18,004 [main] INFO logger_File - user clicked on login button
+2023-06-14 19:00:18,667 [main] INFO logger_File - User clicked on account button
+2023-06-14 19:00:18,988 [main] INFO logger_File - User clicked on add address
+2023-06-14 19:03:08,012 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 19:03:08,478 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 19:03:08,683 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 19:03:08,963 [main] INFO logger_File - user clicked on login button
+2023-06-14 19:03:09,892 [main] INFO logger_File - User clicked on account button
+2023-06-14 19:03:10,216 [main] INFO logger_File - User clicked on add address
+2023-06-14 19:56:32,021 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 19:56:32,504 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 19:56:32,707 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 19:56:33,005 [main] INFO logger_File - user clicked on login button
+2023-06-14 19:56:33,596 [main] INFO logger_File - User clicked on account button
+2023-06-14 19:56:33,913 [main] INFO logger_File - User clicked on add address
+2023-06-14 19:59:47,214 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 19:59:47,759 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 19:59:47,957 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 19:59:48,229 [main] INFO logger_File - user clicked on login button
+2023-06-14 19:59:48,889 [main] INFO logger_File - User clicked on account button
+2023-06-14 19:59:49,201 [main] INFO logger_File - User clicked on add address
+2023-06-14 20:18:16,643 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 20:18:17,122 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 20:18:17,341 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 20:18:17,619 [main] INFO logger_File - user clicked on login button
+2023-06-14 20:18:18,217 [main] INFO logger_File - User clicked on account button
+2023-06-14 20:18:18,533 [main] INFO logger_File - User clicked on add address
+2023-06-14 20:22:26,368 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 20:22:26,751 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 20:22:26,958 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 20:22:27,231 [main] INFO logger_File - user clicked on login button
+2023-06-14 20:22:27,852 [main] INFO logger_File - User clicked on account button
+2023-06-14 20:22:28,147 [main] INFO logger_File - User clicked on add address
+2023-06-14 20:23:47,425 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 20:23:47,866 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 20:23:48,054 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 20:23:48,327 [main] INFO logger_File - user clicked on login button
+2023-06-14 20:23:48,934 [main] INFO logger_File - User clicked on account button
+2023-06-14 20:23:49,289 [main] INFO logger_File - User clicked on add address
+2023-06-14 20:25:52,177 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 20:25:52,643 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 20:25:52,858 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 20:25:53,131 [main] INFO logger_File - user clicked on login button
+2023-06-14 20:25:53,744 [main] INFO logger_File - User clicked on account button
+2023-06-14 20:25:54,072 [main] INFO logger_File - User clicked on add address
+2023-06-14 20:26:54,922 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 20:26:55,385 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 20:26:55,634 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 20:26:55,909 [main] INFO logger_File - user clicked on login button
+2023-06-14 20:26:56,518 [main] INFO logger_File - User clicked on account button
+2023-06-14 20:26:56,842 [main] INFO logger_File - User clicked on add address
+2023-06-14 20:26:57,799 [main] INFO logger_File - User added the infromation for the Address
+2023-06-14 20:26:58,077 [main] INFO logger_File - User clicked on add address button
+2023-06-14 20:26:58,685 [main] INFO logger_File - Address is added
+2023-06-14 21:09:46,434 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 21:09:46,958 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 21:09:47,195 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 21:09:47,471 [main] INFO logger_File - user clicked on login button
+2023-06-14 21:09:48,212 [main] INFO logger_File - User clicked on account button
+2023-06-14 21:09:48,679 [main] INFO logger_File - User clicked on edit address
+2023-06-14 21:09:49,412 [main] INFO logger_File - User added the infromation for the Address
+2023-06-14 21:21:10,298 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 21:21:10,712 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 21:21:10,924 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 21:21:11,209 [main] INFO logger_File - user clicked on login button
+2023-06-14 21:21:11,910 [main] INFO logger_File - User clicked on account button
+2023-06-14 21:21:12,230 [main] INFO logger_File - User clicked on edit address
+2023-06-14 21:21:13,098 [main] INFO logger_File - User added the infromation for the Address
+2023-06-14 21:23:35,608 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 21:23:36,140 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 21:23:36,428 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 21:23:36,707 [main] INFO logger_File - user clicked on login button
+2023-06-14 21:23:37,323 [main] INFO logger_File - User clicked on account button
+2023-06-14 21:23:37,691 [main] INFO logger_File - User clicked on edit address
+2023-06-14 21:23:38,493 [main] INFO logger_File - User added the infromation for the Address
+2023-06-14 21:27:30,692 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 21:27:31,249 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 21:27:31,569 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 21:27:31,927 [main] INFO logger_File - user clicked on login button
+2023-06-14 21:27:32,597 [main] INFO logger_File - User clicked on account button
+2023-06-14 21:27:33,051 [main] INFO logger_File - User clicked on edit address
+2023-06-14 21:27:33,967 [main] INFO logger_File - User added the infromation for the Address
+2023-06-14 21:30:03,868 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 21:30:04,303 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 21:30:04,525 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 21:30:04,810 [main] INFO logger_File - user clicked on login button
+2023-06-14 21:30:05,505 [main] INFO logger_File - User clicked on account button
+2023-06-14 21:30:06,071 [main] INFO logger_File - User clicked on edit address
+2023-06-14 21:30:06,855 [main] INFO logger_File - User added the infromation for the Address
+2023-06-14 21:30:07,142 [main] INFO logger_File - User clicked on update Address Button
+2023-06-14 21:30:07,801 [main] INFO logger_File - Address is updated
+2023-06-14 21:42:47,564 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 21:42:48,077 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 21:42:48,273 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 21:42:48,564 [main] INFO logger_File - user clicked on login button
+2023-06-14 21:42:49,230 [main] INFO logger_File - User clicked on account button
+2023-06-14 21:42:49,540 [main] INFO logger_File - User clicked on remove Address
+2023-06-14 21:43:49,859 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 21:43:50,271 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 21:43:50,474 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 21:43:50,764 [main] INFO logger_File - user clicked on login button
+2023-06-14 21:43:51,401 [main] INFO logger_File - User clicked on account button
+2023-06-14 21:45:14,669 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 21:45:15,030 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 21:45:15,243 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 21:45:15,522 [main] INFO logger_File - user clicked on login button
+2023-06-14 21:45:16,266 [main] INFO logger_File - User clicked on account button
+2023-06-14 21:45:16,614 [main] INFO logger_File - User clicked on remove Address
+2023-06-14 21:46:44,251 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 21:46:44,628 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 21:46:44,868 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 21:46:45,146 [main] INFO logger_File - user clicked on login button
+2023-06-14 21:46:45,764 [main] INFO logger_File - User clicked on account button
+2023-06-14 21:47:24,863 [main] INFO logger_File - Atual title mached the expected
+2023-06-14 21:47:25,270 [main] INFO logger_File - User clicked on SignIn option
+2023-06-14 21:47:25,468 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-14 21:47:25,744 [main] INFO logger_File - user clicked on login button
+2023-06-14 21:47:26,385 [main] INFO logger_File - User clicked on account button
+2023-06-14 21:47:26,827 [main] INFO logger_File - User clicked on remove Address
+2023-06-14 21:47:26,828 [main] INFO logger_File - Address deleted
+2023-06-15 19:31:10,998 [main] INFO logger_File - Atual title mached the expected
+2023-06-15 19:31:11,308 [main] INFO logger_File - User clicked on all section
+2023-06-15 19:31:11,360 [main] INFO logger_File - Electronicsis equals toElectronics
+2023-06-15 19:31:11,401 [main] INFO logger_File - Electronicsis equals toComputers
+2023-06-15 19:31:11,427 [main] INFO logger_File - Electronicsis equals toSmart Home
+2023-06-15 19:31:11,461 [main] INFO logger_File - Electronicsis equals toSports
+2023-06-15 19:31:11,489 [main] INFO logger_File - Electronicsis equals toAutomative
+2023-06-15 19:32:19,194 [main] INFO logger_File - Atual title mached the expected
+2023-06-15 19:32:19,580 [main] INFO logger_File - User clicked on all section
+2023-06-15 19:32:19,615 [main] INFO logger_File - Electronics is equals to Electronics
+2023-06-15 19:32:19,636 [main] INFO logger_File - Computers is equals to Computers
+2023-06-15 19:32:19,666 [main] INFO logger_File - Smart Home is equals to Smart Home
+2023-06-15 19:32:19,695 [main] INFO logger_File - Sports is equals to Sports
+2023-06-15 19:32:19,760 [main] INFO logger_File - Automative is equals to Automative
+2023-06-16 19:44:36,656 [main] INFO logger_File - Atual title mached the expected
+2023-06-16 19:44:36,999 [main] INFO logger_File - User clicked on all section
+2023-06-16 19:44:45,223 [main] INFO logger_File - Atual title mached the expected
+2023-06-16 19:44:45,524 [main] INFO logger_File - User clicked on all section
+2023-06-16 19:44:52,094 [main] INFO logger_File - Atual title mached the expected
+2023-06-16 19:44:52,469 [main] INFO logger_File - User clicked on all section
+2023-06-16 19:44:58,823 [main] INFO logger_File - Atual title mached the expected
+2023-06-16 19:44:59,214 [main] INFO logger_File - User clicked on all section
+2023-06-16 19:45:05,554 [main] INFO logger_File - Atual title mached the expected
+2023-06-16 19:45:05,882 [main] INFO logger_File - User clicked on all section
+2023-06-18 11:42:47,797 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 11:42:48,225 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 11:42:48,467 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 11:42:48,750 [main] INFO logger_File - user clicked on login button
+2023-06-18 11:47:35,234 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 11:47:35,576 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 11:47:35,775 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 11:47:36,035 [main] INFO logger_File - user clicked on login button
+2023-06-18 11:50:26,500 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 11:50:26,967 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 11:50:27,176 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 11:50:27,438 [main] INFO logger_File - user clicked on login button
+2023-06-18 11:59:19,621 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 11:59:20,105 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 11:59:20,301 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 11:59:20,579 [main] INFO logger_File - user clicked on login button
+2023-06-18 12:03:18,087 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 12:03:18,431 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 12:03:18,631 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 12:03:18,899 [main] INFO logger_File - user clicked on login button
+2023-06-18 12:22:40,083 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 12:22:40,499 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 12:22:40,713 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 12:22:40,997 [main] INFO logger_File - user clicked on login button
+2023-06-18 12:22:41,482 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 12:22:41,622 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 12:22:41,870 [main] INFO logger_File - User clicked on search button
+2023-06-18 12:22:42,162 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 12:25:57,997 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 12:25:58,416 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 12:25:58,653 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 12:25:58,935 [main] INFO logger_File - user clicked on login button
+2023-06-18 12:25:59,508 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 12:25:59,613 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 12:25:59,882 [main] INFO logger_File - User clicked on search button
+2023-06-18 12:26:00,170 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 12:26:00,491 [main] INFO logger_File - User selected the quantity
+2023-06-18 12:26:00,765 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 12:26:54,293 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 12:26:54,654 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 12:26:54,887 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 12:26:55,172 [main] INFO logger_File - user clicked on login button
+2023-06-18 12:26:55,778 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 12:26:55,870 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 12:26:56,128 [main] INFO logger_File - User clicked on search button
+2023-06-18 12:26:56,407 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 12:26:56,692 [main] INFO logger_File - User selected the quantity
+2023-06-18 12:26:57,000 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 12:26:57,040 [main] INFO logger_File - quantity added
+2023-06-18 15:03:26,718 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 15:03:27,193 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 15:03:27,382 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 15:03:27,645 [main] INFO logger_File - user clicked on login button
+2023-06-18 15:03:28,211 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 15:03:28,299 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 15:03:28,559 [main] INFO logger_File - User clicked on search button
+2023-06-18 15:03:28,849 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 15:03:29,096 [main] INFO logger_File - User selected the quantity
+2023-06-18 15:03:29,387 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 15:06:18,025 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 15:06:18,442 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 15:06:18,655 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 15:06:18,923 [main] INFO logger_File - user clicked on login button
+2023-06-18 15:06:19,492 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 15:06:19,571 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 15:06:19,844 [main] INFO logger_File - User clicked on search button
+2023-06-18 15:06:20,120 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 15:06:20,371 [main] INFO logger_File - User selected the quantity
+2023-06-18 15:06:20,681 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 15:06:20,733 [main] INFO logger_File - quantity added
+2023-06-18 15:07:11,662 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 15:07:12,066 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 15:07:12,293 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 15:07:12,570 [main] INFO logger_File - user clicked on login button
+2023-06-18 15:07:14,508 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 15:07:14,607 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 15:07:14,862 [main] INFO logger_File - User clicked on search button
+2023-06-18 15:07:15,171 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 15:07:15,447 [main] INFO logger_File - User selected the quantity
+2023-06-18 15:07:15,695 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 15:07:45,530 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 15:07:46,006 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 15:07:46,219 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 15:07:46,475 [main] INFO logger_File - user clicked on login button
+2023-06-18 15:07:47,075 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 15:07:47,187 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 15:07:47,447 [main] INFO logger_File - User clicked on search button
+2023-06-18 15:07:47,730 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 15:07:48,046 [main] INFO logger_File - User selected the quantity
+2023-06-18 15:07:48,367 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 15:07:48,413 [main] INFO logger_File - quantity added
+2023-06-18 15:07:48,681 [main] INFO logger_File - User clicked on cart option
+2023-06-18 15:07:48,987 [main] INFO logger_File - User clicked on proceed to checkout
+2023-06-18 15:25:04,886 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 15:25:05,303 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 15:25:05,516 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 15:25:05,776 [main] INFO logger_File - user clicked on login button
+2023-06-18 15:25:06,291 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 15:25:06,416 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 15:25:06,668 [main] INFO logger_File - User clicked on search button
+2023-06-18 15:25:06,960 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 15:25:07,231 [main] INFO logger_File - User selected the quantity
+2023-06-18 15:25:07,539 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 15:25:41,499 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 15:25:41,976 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 15:25:42,183 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 15:25:42,450 [main] INFO logger_File - user clicked on login button
+2023-06-18 15:25:43,017 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 15:25:43,122 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 15:25:43,390 [main] INFO logger_File - User clicked on search button
+2023-06-18 15:25:43,677 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 15:25:43,978 [main] INFO logger_File - User selected the quantity
+2023-06-18 15:25:44,304 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 15:25:44,337 [main] INFO logger_File - quantity added
+2023-06-18 15:25:44,605 [main] INFO logger_File - User clicked on cart option
+2023-06-18 15:25:44,900 [main] INFO logger_File - User clicked on proceed to checkout
+2023-06-18 15:25:45,199 [main] INFO logger_File - User clicked on add address option
+2023-06-18 15:25:46,247 [main] INFO logger_File - User added the infromation for the Address
+2023-06-18 15:25:46,513 [main] INFO logger_File - User clicked on add address button
+2023-06-18 15:38:38,256 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 15:38:38,707 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 15:38:38,961 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 15:38:39,244 [main] INFO logger_File - user clicked on login button
+2023-06-18 15:38:39,781 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 15:38:39,902 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 15:38:40,170 [main] INFO logger_File - User clicked on search button
+2023-06-18 15:38:40,439 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 15:38:40,710 [main] INFO logger_File - User selected the quantity
+2023-06-18 15:38:40,971 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 15:38:40,986 [main] INFO logger_File - quantity added
+2023-06-18 15:38:41,265 [main] INFO logger_File - User clicked on cart option
+2023-06-18 15:38:41,522 [main] INFO logger_File - User clicked on proceed to checkout
+2023-06-18 15:38:41,785 [main] INFO logger_File - User clicked on add address option
+2023-06-18 15:38:42,894 [main] INFO logger_File - User added the infromation for the Address
+2023-06-18 15:38:43,164 [main] INFO logger_File - User clicked on add address button
+2023-06-18 15:43:12,128 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 15:43:12,773 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 15:43:12,999 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 15:43:13,259 [main] INFO logger_File - user clicked on login button
+2023-06-18 15:43:13,799 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 15:43:13,919 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 15:43:14,171 [main] INFO logger_File - User clicked on search button
+2023-06-18 15:43:14,450 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 15:43:14,701 [main] INFO logger_File - User selected the quantity
+2023-06-18 15:43:14,995 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 15:43:15,030 [main] INFO logger_File - quantity added
+2023-06-18 15:43:15,297 [main] INFO logger_File - User clicked on cart option
+2023-06-18 15:43:15,580 [main] INFO logger_File - User clicked on proceed to checkout
+2023-06-18 15:43:15,869 [main] INFO logger_File - User clicked on add address option
+2023-06-18 15:43:16,950 [main] INFO logger_File - User added the infromation for the Address
+2023-06-18 15:43:17,240 [main] INFO logger_File - User clicked on add address button
+2023-06-18 15:45:04,132 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 15:45:04,676 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 15:45:04,906 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 15:45:05,182 [main] INFO logger_File - user clicked on login button
+2023-06-18 15:45:05,814 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 15:45:05,918 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 15:45:06,174 [main] INFO logger_File - User clicked on search button
+2023-06-18 15:45:06,456 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 15:45:06,701 [main] INFO logger_File - User selected the quantity
+2023-06-18 15:45:06,994 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 15:46:18,789 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 15:46:19,177 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 15:46:19,406 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 15:46:19,682 [main] INFO logger_File - user clicked on login button
+2023-06-18 15:46:20,196 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 15:46:20,316 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 15:46:20,569 [main] INFO logger_File - User clicked on search button
+2023-06-18 15:46:20,868 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 15:46:21,158 [main] INFO logger_File - User selected the quantity
+2023-06-18 15:46:21,473 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 15:46:21,515 [main] INFO logger_File - quantity added
+2023-06-18 15:46:21,785 [main] INFO logger_File - User clicked on cart option
+2023-06-18 15:46:22,044 [main] INFO logger_File - User clicked on proceed to checkout
+2023-06-18 15:46:22,319 [main] INFO logger_File - User clicked on add address option
+2023-06-18 15:46:23,471 [main] INFO logger_File - User added the infromation for the Address
+2023-06-18 15:46:23,732 [main] INFO logger_File - User clicked on add address button
+2023-06-18 15:46:24,040 [main] INFO logger_File - User clicked on add payment
+2023-06-18 15:46:24,826 [main] INFO logger_File - User filled the form
+2023-06-18 15:46:25,084 [main] INFO logger_File - User clicked on add your card button
+2023-06-18 15:52:38,707 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 15:52:39,130 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 15:52:39,384 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 15:52:39,654 [main] INFO logger_File - user clicked on login button
+2023-06-18 15:52:40,261 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 15:52:40,341 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 15:52:40,592 [main] INFO logger_File - User clicked on search button
+2023-06-18 15:52:40,882 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 15:52:41,170 [main] INFO logger_File - User selected the quantity
+2023-06-18 15:52:41,493 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 15:52:41,514 [main] INFO logger_File - quantity added
+2023-06-18 15:52:41,769 [main] INFO logger_File - User clicked on cart option
+2023-06-18 15:52:42,055 [main] INFO logger_File - User clicked on proceed to checkout
+2023-06-18 15:52:42,354 [main] INFO logger_File - User clicked on add address option
+2023-06-18 15:52:43,371 [main] INFO logger_File - User added the infromation for the Address
+2023-06-18 15:52:43,645 [main] INFO logger_File - User clicked on add address button
+2023-06-18 15:52:43,912 [main] INFO logger_File - User clicked on add payment
+2023-06-18 15:52:44,703 [main] INFO logger_File - User filled the form
+2023-06-18 15:52:44,980 [main] INFO logger_File - User clicked on add your card button
+2023-06-18 16:28:53,455 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 16:28:53,872 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 16:28:54,096 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 16:28:54,370 [main] INFO logger_File - user clicked on login button
+2023-06-18 16:28:54,918 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 16:28:55,024 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 16:28:55,276 [main] INFO logger_File - User clicked on search button
+2023-06-18 16:28:55,575 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 16:28:55,906 [main] INFO logger_File - User selected the quantity
+2023-06-18 16:28:56,194 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 16:28:56,249 [main] INFO logger_File - quantity added
+2023-06-18 16:28:56,510 [main] INFO logger_File - User clicked on cart option
+2023-06-18 16:28:56,833 [main] INFO logger_File - User clicked on proceed to checkout
+2023-06-18 16:28:57,128 [main] INFO logger_File - User clicked on add address option
+2023-06-18 16:28:58,190 [main] INFO logger_File - User added the infromation for the Address
+2023-06-18 16:28:58,451 [main] INFO logger_File - User clicked on add address button
+2023-06-18 16:28:58,775 [main] INFO logger_File - User clicked on add payment
+2023-06-18 16:28:59,480 [main] INFO logger_File - User filled the form
+2023-06-18 16:28:59,743 [main] INFO logger_File - User clicked on add your card button
+2023-06-18 16:30:43,802 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 16:30:44,184 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 16:30:44,384 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 16:30:44,642 [main] INFO logger_File - user clicked on login button
+2023-06-18 16:30:45,199 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 16:30:45,317 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 16:30:45,573 [main] INFO logger_File - User clicked on search button
+2023-06-18 16:30:45,853 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 16:30:46,107 [main] INFO logger_File - User selected the quantity
+2023-06-18 16:30:46,415 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 16:30:46,434 [main] INFO logger_File - quantity added
+2023-06-18 16:30:46,698 [main] INFO logger_File - User clicked on cart option
+2023-06-18 16:30:46,982 [main] INFO logger_File - User clicked on proceed to checkout
+2023-06-18 16:30:47,265 [main] INFO logger_File - User clicked on add address option
+2023-06-18 16:30:48,297 [main] INFO logger_File - User added the infromation for the Address
+2023-06-18 16:30:48,568 [main] INFO logger_File - User clicked on add address button
+2023-06-18 16:30:48,857 [main] INFO logger_File - User clicked on add payment
+2023-06-18 16:30:49,651 [main] INFO logger_File - User filled the form
+2023-06-18 16:30:49,918 [main] INFO logger_File - User clicked on add your card button
+2023-06-18 16:31:38,572 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 16:31:39,001 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 16:31:39,195 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 16:31:39,455 [main] INFO logger_File - user clicked on login button
+2023-06-18 16:31:39,956 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 16:31:40,103 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 16:31:40,358 [main] INFO logger_File - User clicked on search button
+2023-06-18 16:31:40,643 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 16:31:40,953 [main] INFO logger_File - User selected the quantity
+2023-06-18 16:31:41,290 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 16:31:41,328 [main] INFO logger_File - quantity added
+2023-06-18 16:31:41,587 [main] INFO logger_File - User clicked on cart option
+2023-06-18 16:31:41,918 [main] INFO logger_File - User clicked on proceed to checkout
+2023-06-18 16:31:42,221 [main] INFO logger_File - User clicked on add address option
+2023-06-18 16:31:43,275 [main] INFO logger_File - User added the infromation for the Address
+2023-06-18 16:31:43,539 [main] INFO logger_File - User clicked on add address button
+2023-06-18 16:31:43,835 [main] INFO logger_File - User clicked on add payment
+2023-06-18 16:31:44,562 [main] INFO logger_File - User filled the form
+2023-06-18 16:31:44,820 [main] INFO logger_File - User clicked on add your card button
+2023-06-18 16:37:14,315 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 16:37:14,835 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 16:37:15,041 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 16:37:15,325 [main] INFO logger_File - user clicked on login button
+2023-06-18 16:37:15,940 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 16:37:16,033 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 16:37:16,314 [main] INFO logger_File - User clicked on search button
+2023-06-18 16:37:16,611 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 16:37:16,915 [main] INFO logger_File - User selected the quantity
+2023-06-18 16:37:17,238 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 16:37:17,265 [main] INFO logger_File - quantity added
+2023-06-18 16:37:17,530 [main] INFO logger_File - User clicked on cart option
+2023-06-18 16:37:17,821 [main] INFO logger_File - User clicked on proceed to checkout
+2023-06-18 16:37:18,115 [main] INFO logger_File - User clicked on add address option
+2023-06-18 16:37:19,179 [main] INFO logger_File - User added the infromation for the Address
+2023-06-18 16:37:19,442 [main] INFO logger_File - User clicked on add address button
+2023-06-18 16:37:19,763 [main] INFO logger_File - User clicked on add payment
+2023-06-18 16:37:20,557 [main] INFO logger_File - User filled the form
+2023-06-18 16:37:20,825 [main] INFO logger_File - User clicked on add your card button
+2023-06-18 16:37:20,905 [main] INFO logger_File - User clicked on order button
+2023-06-18 16:37:21,408 [main] INFO logger_File - order placed
+2023-06-18 16:52:18,186 [main] INFO logger_File - Atual title mached the expected
+2023-06-18 16:52:18,570 [main] INFO logger_File - User clicked on SignIn option
+2023-06-18 16:52:18,772 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-18 16:52:19,031 [main] INFO logger_File - user clicked on login button
+2023-06-18 16:52:19,612 [main] INFO logger_File - User clicked on smart home option
+2023-06-18 16:52:19,712 [main] INFO logger_File - User search for Kasa Outdoor Smart Plug
+2023-06-18 16:52:19,975 [main] INFO logger_File - User clicked on search button
+2023-06-18 16:52:20,257 [main] INFO logger_File - user clicked on kasa item
+2023-06-18 16:52:20,506 [main] INFO logger_File - User selected the quantity
+2023-06-18 16:52:20,817 [main] INFO logger_File - User clicked on add cart button
+2023-06-18 16:52:20,832 [main] INFO logger_File - quantity added
+2023-06-18 16:52:21,096 [main] INFO logger_File - User clicked on cart option
+2023-06-18 16:52:21,384 [main] INFO logger_File - User clicked on proceed to checkout
+2023-06-18 16:52:21,447 [main] INFO logger_File - User clicked on order button
+2023-06-18 16:52:21,886 [main] INFO logger_File - order placed
+2023-06-19 13:19:01,115 [main] INFO logger_File - Atual title mached the expected
+2023-06-19 13:19:01,491 [main] INFO logger_File - User clicked on SignIn option
+2023-06-19 13:19:01,710 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-19 13:19:01,989 [main] INFO logger_File - user clicked on login button
+2023-06-19 13:19:02,483 [main] INFO logger_File - User clicked on order button
+2023-06-19 13:19:02,489 [main] INFO logger_File - User clicked on one of the orders
+2023-06-19 13:19:02,994 [main] INFO logger_File - User clicked on cancel button
+2023-06-19 13:19:03,274 [main] INFO logger_File - User selected a reason for cancelation
+2023-06-19 13:19:03,577 [main] INFO logger_File - User submitted the cancelation
+2023-06-19 13:19:03,628 [main] INFO logger_File - confirmed
+2023-06-19 13:58:48,577 [main] INFO logger_File - Atual title mached the expected
+2023-06-19 13:58:49,014 [main] INFO logger_File - User clicked on SignIn option
+2023-06-19 13:58:49,209 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-19 13:58:49,491 [main] INFO logger_File - user clicked on login button
+2023-06-19 13:58:50,105 [main] INFO logger_File - User clicked on order button
+2023-06-19 13:58:50,109 [main] INFO logger_File - User clicked on one of the orders
+2023-06-19 14:10:39,603 [main] INFO logger_File - Atual title mached the expected
+2023-06-19 14:10:40,022 [main] INFO logger_File - User clicked on SignIn option
+2023-06-19 14:10:40,233 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-19 14:10:40,510 [main] INFO logger_File - user clicked on login button
+2023-06-19 14:10:41,093 [main] INFO logger_File - User clicked on order button
+2023-06-19 14:10:41,562 [main] INFO logger_File - User clicked on one of the orders
+2023-06-19 14:10:41,823 [main] INFO logger_File - User clicked on return button
+2023-06-19 14:10:42,102 [main] INFO logger_File - User selected a reason
+2023-06-19 14:11:30,340 [main] INFO logger_File - Atual title mached the expected
+2023-06-19 14:11:30,752 [main] INFO logger_File - User clicked on SignIn option
+2023-06-19 14:11:30,975 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-19 14:11:31,263 [main] INFO logger_File - user clicked on login button
+2023-06-19 14:11:31,847 [main] INFO logger_File - User clicked on order button
+2023-06-19 14:11:32,147 [main] INFO logger_File - User clicked on one of the orders
+2023-06-19 14:11:32,451 [main] INFO logger_File - User clicked on return button
+2023-06-19 14:11:32,765 [main] INFO logger_File - User selected a reason
+2023-06-19 14:11:33,052 [main] INFO logger_File - User selected a service
+2023-06-19 14:11:33,359 [main] INFO logger_File - User selected the return
+2023-06-19 14:38:57,142 [main] INFO logger_File - Atual title mached the expected
+2023-06-19 14:38:57,593 [main] INFO logger_File - User clicked on SignIn option
+2023-06-19 14:38:57,835 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-19 14:38:58,116 [main] INFO logger_File - user clicked on login button
+2023-06-19 14:38:58,727 [main] INFO logger_File - User clicked on order button
+2023-06-19 14:38:59,181 [main] INFO logger_File - User clicked on one of the orders
+2023-06-19 14:38:59,445 [main] INFO logger_File - User clicked on review
+2023-06-19 14:38:59,635 [main] INFO logger_File - User filled the from
+2023-06-19 14:38:59,958 [main] INFO logger_File - User clicked on submittion
+2023-06-19 14:46:38,420 [main] INFO logger_File - Atual title mached the expected
+2023-06-19 14:46:38,837 [main] INFO logger_File - User clicked on SignIn option
+2023-06-19 14:46:39,099 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-19 14:46:39,374 [main] INFO logger_File - user clicked on login button
+2023-06-19 14:46:39,964 [main] INFO logger_File - User clicked on order button
+2023-06-19 14:46:40,545 [main] INFO logger_File - User clicked on one of the orders
+2023-06-19 14:46:40,839 [main] INFO logger_File - User clicked on review
+2023-06-19 14:46:41,032 [main] INFO logger_File - User filled the from
+2023-06-19 14:46:41,346 [main] INFO logger_File - User clicked on submittion
+2023-06-19 14:49:06,556 [main] INFO logger_File - Atual title mached the expected
+2023-06-19 14:49:06,970 [main] INFO logger_File - User clicked on SignIn option
+2023-06-19 14:49:07,220 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-19 14:49:07,486 [main] INFO logger_File - user clicked on login button
+2023-06-19 14:49:08,059 [main] INFO logger_File - User clicked on order button
+2023-06-19 14:49:08,518 [main] INFO logger_File - User clicked on one of the orders
+2023-06-19 14:49:08,813 [main] INFO logger_File - User clicked on review
+2023-06-19 14:49:08,987 [main] INFO logger_File - User filled the from
+2023-06-19 14:49:09,233 [main] INFO logger_File - User clicked on submittion
+2023-06-19 14:49:09,832 [main] INFO logger_File - Revies confirmed
+2023-06-19 16:18:57,695 [main] INFO logger_File - Atual title mached the expected
+2023-06-19 16:18:57,890 [main] INFO logger_File - User clicked on SignIn option
+2023-06-19 16:18:58,164 [main] INFO logger_File - user entered emailali12345@gmail.comand passwordAsDf@1234
+2023-06-19 16:18:58,280 [main] INFO logger_File - user clicked on login button
+2023-06-19 16:18:58,886 [main] INFO logger_File - User clicked on order button
+2023-06-19 16:18:59,174 [main] INFO logger_File - User clicked on one of the orders
+2023-06-19 16:18:59,276 [main] INFO logger_File - User clicked on review
+2023-06-19 16:18:59,512 [main] INFO logger_File - User filled the from
+2023-06-19 16:18:59,610 [main] INFO logger_File - User clicked on submittion
+2023-06-19 16:19:00,513 [main] INFO logger_File - Revies confirmed
